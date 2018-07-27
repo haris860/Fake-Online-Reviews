@@ -1,0 +1,21 @@
+Data statistics:
+Total Number of truthful reviews:  800
+Total Number of deceptive reviews:  800
+Total number of files :  1600
+Total number of words in the files :  253157
+Vocab size :  9687
+Average number of words in the files : 158.223125
+Visualizing the data in histogram format:
+The number of unknown words is  894
+saving the pickle files
+Compressed pickle size: 23348897
+The dimensions of the ids matrix:  (1600, 160)
+The dimensions of the labels :  (1600, 2)
+Dataset is split into training,validation and test set in 8:1:1 ratio
+train data dimensions:  (1280, 160)
+train labels dimensions:  (1280, 2)
+validation data dimensions:  (160, 160)
+validation labels dimensions:  (160, 2)
+test data dimensions:  (160, 160)
+test labels dimensions:  (160, 2)
+Compressed dataset pickle size: 1037254
